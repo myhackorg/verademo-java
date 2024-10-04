@@ -70,4 +70,3 @@ To run the container for local development run this:
 
 Then register as a new user and add some feeds
 
-prova
